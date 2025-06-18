@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Taejeong's%20Github&fontSize=90)
 
 <!--
 **xaehub/xaehub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
