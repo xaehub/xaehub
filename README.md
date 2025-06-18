@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Taejeong's%20Github&fontSize=90)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a74d6cf9-1c24-471c-8d4d-e9b4d68a61ea" alt="Taejeong's GitHub Banner" />
+</p>
 
 <!--
 **xaehub/xaehub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
